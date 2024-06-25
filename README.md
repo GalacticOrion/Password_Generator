@@ -19,7 +19,7 @@ Copy code
 git clone [https://github.com/your-username/password-generator.git](https://github.com/GalacticOrion/Password_Generator)
 
 2.	Navigate into the project directory:
-cd password-generator
+cd Password_Generator
 
 3.	Run the script:
 python Password_Generator.py
