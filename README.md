@@ -10,8 +10,8 @@ Welcome to the Python Password Generator project! This script creates strong and
 
 
 **Libraries Used**
-•	tkinter: Python's standard GUI library for creating graphical interfaces.
-•	customtkinter: A custom library for enhancing GUI aesthetics and functionality.
+•	tkinter: Python's standard GUI library for creating graphical interfaces. For windows installation (pip install tkinter)
+•	customtkinter: A custom library for enhancing GUI aesthetics and functionality. For windows installation (pip install customtkinter)
 
 **Installation**
 1.	Clone the repository:
