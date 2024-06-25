@@ -5,15 +5,18 @@
 Welcome to the Python Password Generator project! This script creates strong and secure passwords using a user-friendly graphical interface built with tkinter and customtkinter libraries. 
 
 **Features**
+
 •	Graphical User Interface (GUI): Simple and intuitive interface for generating passwords.
 •	Customizable Passwords: Specify password length.
 
 
 **Libraries Used**
+
 •	tkinter: Python's standard GUI library for creating graphical interfaces. For windows installation (pip install tkinter)
 •	customtkinter: A custom library for enhancing GUI aesthetics and functionality. For windows installation (pip install customtkinter)
 
 **Installation**
+
 1.	Clone the repository:
 Copy code
 git clone [https://github.com/your-username/password-generator.git](https://github.com/GalacticOrion/Password_Generator)
