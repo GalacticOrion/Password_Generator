@@ -16,20 +16,20 @@ Welcome to the Python Password Generator project! This script creates strong and
 **Installation**
 1.	Clone the repository:
 Copy code
-git clone https://github.com/your-username/password-generator.git
+git clone [https://github.com/your-username/password-generator.git](https://github.com/GalacticOrion/Password_Generator)
+
 2.	Navigate into the project directory:
-bash
-Copy code
 cd password-generator
+
 3.	Run the script:
-Copy code
-python password_generator.py
-Usage
-1.	Launch the application by running password_generator.py.
-2.	Specify the desired password length using the slider or input box.
-3.	Click the "Generate Password" button to create a new password.
+python Password_Generator.py
+
+**Usage**
+1.	Launch the application by running Password_Generator.py.
+2.	Specify the desired password length using input box.
+3.	Click the "Generate" button to create a new password.
 
 
 **Acknowledgments**
-•	Special thanks to the creators and contributors of tkinter, customtkinter, and hashlib libraries for their invaluable tools.
+•	Special thanks to the creators and contributors of tkinter, customtkinter,s for their invaluable tools.
 
