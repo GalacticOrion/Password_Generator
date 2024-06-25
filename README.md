@@ -7,12 +7,14 @@ Welcome to the Python Password Generator project! This script creates strong and
 **Features**
 
 •	Graphical User Interface (GUI): Simple and intuitive interface for generating passwords.
+
 •	Customizable Passwords: Specify password length.
 
 
 **Libraries Used**
 
 •	tkinter: Python's standard GUI library for creating graphical interfaces. For windows installation (pip install tkinter)
+
 •	customtkinter: A custom library for enhancing GUI aesthetics and functionality. For windows installation (pip install customtkinter)
 
 **Installation**
@@ -34,5 +36,6 @@ python Password_Generator.py
 
 
 **Acknowledgments**
+
 •	Special thanks to the creators and contributors of tkinter, customtkinter,s for their invaluable tools.
 
